@@ -13,7 +13,8 @@ public class HbaseApplicationTests {
     public void contextLoads() {
 		String relase = "1";
 		String release = "2";
-	int i = 0;
+		String fix = "fix";
+		int i = 0;
     }
 
 }
