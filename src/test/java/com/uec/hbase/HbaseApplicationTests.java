@@ -12,6 +12,7 @@ public class HbaseApplicationTests {
     @Test
     public void contextLoads() {
 		String relase = "1";
+		String release = "2";
 	int i = 0;
     }
 
